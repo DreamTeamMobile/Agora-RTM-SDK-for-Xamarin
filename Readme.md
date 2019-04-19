@@ -9,7 +9,7 @@ This repository contains samples of using Xamarin Agora.io RTM SDK Nuget package
 
 also contains a basic sample for Agora WebRTC
 
-and offcourse [Step-by-Step Tutorial](Tutorial.md)
+and offcourse ===>[Step-by-Step Tutorial](Tutorial.md)
 
 
 Running samples
@@ -59,17 +59,14 @@ Screenshots
 
 Xamarin iOS
 
-![](Screenshots/iOS/1.png | width=200)
-![](Screenshots/iOS/2.png | width=200)
-![](Screenshots/iOS/3.png | width=200)
-![](Screenshots/iOS/4.png | width=200)
-![](Screenshots/iOS/5.png | width=200)
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/1.PNG" width="200" /><img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/2.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/3.PNG" width="200" /><img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/4.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/5.PNG" width="200" />
 
 Xamarin Android
 
-![](Screenshots/Android/1.png | width=200)
-![](Screenshots/Android/2.png | width=200)
-![](Screenshots/Android/3.png | width=200)
-![](Screenshots/Android/4.png | width=200)
-![](Screenshots/Android/5.png | width=200)
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/1.jpg" width="200" /><img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/2.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/3.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/4.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/5.jpg" width="200" />
 
