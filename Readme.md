@@ -57,18 +57,18 @@ Screenshots
 
 Xamarin iOS
 
-<img src="Screenshots/iOS/1.png" width="200" />
-<img src="Screenshots/iOS/2.png" width="200" />
-<img src="Screenshots/iOS/3.png" width="200" />
-<img src="Screenshots/iOS/4.png" width="200" />
-<img src="Screenshots/iOS/.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/1.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/2.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/3.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/4.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/iOS/.png" width="200" />
 
 
 Xamarin Android
 
-<img src="Screenshots/Android/1.png" width="200" />
-<img src="Screenshots/Android/2.png" width="200" />
-<img src="Screenshots/Android/3.png" width="200" />
-<img src="Screenshots/Android/4.png" width="200" />
-<img src="Screenshots/Android/.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/1.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/2.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/3.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/4.png" width="200" />
+<img src="https://raw.githubusercontent.com/DreamTeamMobile/Agora-RTM-SDK-for-Xamarin/master/Screenshots/Android/.png" width="200" />
 
